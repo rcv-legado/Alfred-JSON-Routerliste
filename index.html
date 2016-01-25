@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Alfred-JSON Routerliste</title>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+<link id="style" href="css/clean.css" rel="stylesheet" media="screen">
+<link href="css/jquerysctipttop.css" rel="stylesheet" type="text/css">
+<style>
+	body {
+		font-family: helvetica, sans-serif;
+	}
+	.source {
+		font-family: monospace;
+		padding: 0px;
+	}
+</style>
+</head>
+<body>
+<div class="jquery-script-center">
+<div class="jquery-script-clear"></div>
+</div>
+</div>
+<h1 style="margin-top:50px;">Alfred-JSON Routerliste</h1>
+<label>Theme:</label>
+<select id="theme">
+<option value="clean.css">Clean</option>
+<option value="classic.css">Classic</option>
+</select>
+<div id="alfred"></div>
+<script src="src/js/jquery.min.js"></script> 
+<script src="js/jquery.columns-1.0.min.js"></script> 
+<script>
+			$.ajax({
+				url:'knotenliste.json',
+				dataType: 'json', 
+				success: function(json) { 
+					alfred = $('#alfred').columns({
+						data:json,
+						schema: [
+							{"header":"Router Name", "key":"name"},
+							{"header":"Kontakt", "key":"kontakt", "template":'<a href="mailto:{{kontakt}}">{{kontakt}}</a>'},
+							{"header":"IPv6-Adresse", "key":"adresse", "template":'<a href="http://[{{adresse}}]/">{{adresse}}</a>'},
+							{"header":"VPN-Link", "key":"vpn"},
+							{"header":"Online", "key":"online"}
+						]
+ 
+					}); 
+				}
+			}); 
+			
+			$('#theme').change(function() {
+				$('link').attr('href', 'css/'+$(this).val());
+			})
+		</script>
+</body>
+</html>

@@ -1,0 +1,1699 @@
+[{
+  "name": "FF-EN-SPR-Elektro-seyock-1-R",
+  "kontakt": "freifunk@juergen-henning.de 01636608150",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:16cc:20ff:fe85:925c"
+  ]
+},
+{
+  "name": "FF-EN-SPR-LALA-FLUR-Kasten-01",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:16cc:20ff:fe37:c48"
+  ]
+},
+{
+  "name": "FF-EN-SPR-Gimbel-heimdecor-Mittelstr-13",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:ea94:f6ff:fef2:ea80"
+  ]
+},
+{
+  "name": "FF-EN-SPR-GLUECKAUFHALLE-01",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": true,
+  "vpn": true,
+  "adresse": [
+    "2a03:2260:50:13:32b5:c2ff:fe6e:b499"
+  ]
+},
+{
+  "name": "FF-EN-SPR-Buecherei-Hasslinghausen-01",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:16cc:20ff:fe6f:4656"
+  ]
+},
+{
+  "name": "FF-EN-SPR-Hotel-Restaraunt-Eggers-8187A3F1E64C-0",
+  "kontakt": "freifunk@juergen-henning.de 01636608150",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:c66e:1fff:fe3a:7818"
+  ]
+},
+{
+  "name": "FF-EN-SPR-WALD-03",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:32b5:c2ff:fec6:7f68"
+  ]
+},
+{
+  "name": "FF-EN-SPR-Begegnungsstaette-Gedulderweg",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:32b5:c2ff:fe81:268c"
+  ]
+},
+{
+  "name": "FF-SPR-Confiserie-Spezialitaeten-Kramer",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:ea94:f6ff:fef2:eefa"
+  ]
+},
+{
+  "name": "FF-EN-SPR-HAUPTSTRASSE-6-VHS-RAUM-02",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:ea94:f6ff:fef2:faa0"
+  ]
+},
+{
+  "name": "FF-EN-SPR-RH-SRV-EG-01",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:32b5:c2ff:fe81:4cc"
+  ]
+},
+{
+  "name": "sprockhoevel-1.ff-en.de",
+  "kontakt": null,
+  "online": true,
+  "vpn": null,
+  "adresse": null
+},
+{
+  "name": "FF-EN-SPR-Moebel-Vehlhaber-Hauptstr-71-R",
+  "kontakt": "freifunk@juergen-henning.de 0163 / 6608150",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:eade:27ff:fe65:ba25"
+  ]
+},
+{
+  "name": "FF-SPR-refugees_welcome_2",
+  "kontakt": "micha-ff-spr@gmx.de",
+  "online": true,
+  "vpn": null,
+  "adresse": [
+    "2a03:2260:50:13:ea94:f6ff:febb:adcc"
+  ]
+},
+{
+  "name": "FF-EN-SPR-Nachtigallenstrasse",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:32b5:c2ff:feb9:16e8"
+  ]
+},
+{
+  "name": "FF-SPR-Kaki03",
+  "kontakt": "freifunk@zueschen.eu",
+  "online": true,
+  "vpn": true,
+  "adresse": [
+    "2a03:2260:50:13:62e3:27ff:fec6:f986"
+  ]
+},
+{
+  "name": "FF-SPR-RH-EG-FLUR-WARTE-BEREICH-01",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:16cc:20ff:fe41:8aa0"
+  ]
+},
+{
+  "name": "sprockhoevel-2.ff-en.de",
+  "kontakt": null,
+  "online": false,
+  "vpn": null,
+  "adresse": null
+},
+{
+  "name": "FF-SPR-Kaki13",
+  "kontakt": "freifunk@zueschen.eu",
+  "online": true,
+  "vpn": true,
+  "adresse": [
+    "2a03:2260:50:13:f6f2:6dff:fe40:8450"
+  ]
+},
+{
+  "name": "FF-EN-SPR-Am-alten-Knapp-12c",
+  "kontakt": "freifunk@juergen-henning.de 0163 6608150",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:16cc:20ff:fe6e:f4ec"
+  ]
+},
+{
+  "name": "FF-EN-SPR-Freibad-CPE-210-LINKS-GRU",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:16cc:20ff:fe6e:172c"
+  ]
+},
+{
+  "name": "FF-SPR-TESTHURE2-MESH",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:c66e:1fff:fe87:1010"
+  ]
+},
+{
+  "name": "FF-EN-SPR-SM-SCHWELM-RE850-01",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:c66e:1fff:fe40:7897"
+  ]
+},
+{
+  "name": "FF-EN-SPR-RH-LALA-LABOR-IT",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:c24a:ff:fedd:5b60"
+  ]
+},
+{
+  "name": "FF-EN-SPR-Im_Osterhoefgen",
+  "kontakt": "micha@freifunk-sprockhoevel.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:c66e:1fff:fe2d:82d8"
+  ]
+},
+{
+  "name": "FF-EN-SPR-Kuechenstudio-Vehlhaber-Hauptstr-71",
+  "kontakt": "freifunk@juergen-henning.de 0163 / 6608150",
+  "online": false,
+  "vpn": true,
+  "adresse": [
+    "2a03:2260:50:13:eade:27ff:fe65:d20d"
+  ]
+},
+{
+  "name": "FF-EN-SPR-Am-Schlagbaum.de",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": false,
+  "vpn": true,
+  "adresse": [
+    "2a03:2260:50:13:c66e:1fff:feb6:29d4"
+  ]
+},
+{
+  "name": "FF-EN-SPR-DEMO3-RE850",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": true,
+  "vpn": null,
+  "adresse": [
+    "2a03:2260:50:13:c24a:ff:fe76:7a20"
+  ]
+},
+{
+  "name": "FF-SPR-Unterdorf-3600",
+  "kontakt": "micha-ff-spr@gmx.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:6666:b3ff:fe4f:f4c0"
+  ]
+},
+{
+  "name": "FF-EN-SPR-HUEBSCH-Macherei-Mittelstr-34",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:32b5:c2ff:fe81:2022"
+  ]
+},
+{
+  "name": "FF-EN-SPR-FW-LZ-Niedersprockhoevel-Schulung",
+  "kontakt": "micha@freifunk-sprockhoevel.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:16cc:20ff:fea9:cfcc"
+  ]
+},
+{
+  "name": "FF-EN-SPR-Reisebuero-Muthmann-Hauptstr-31",
+  "kontakt": "freifunk@juergen-henning.de 0163 6608150",
+  "online": false,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:16cc:20ff:fe6f:45e6"
+  ]
+},
+{
+  "name": "FF-EN-SPR-Kirche-Sprockhoevel-Uplink-Keller-UG",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:32b5:c2ff:fed9:bbb6"
+  ]
+},
+{
+  "name": "FF-EN-SPR-Raumausstattung-Kullik-Hauptstr-75",
+  "kontakt": "freifunk@juergen-henning.de 0163/6608150",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:eade:27ff:fe65:c17e"
+  ]
+},
+{
+  "name": "FF-EN-SPR-Langenbruchstrasse-44",
+  "kontakt": "pj16de@yahoo.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:32b5:c2ff:fed9:fe00"
+  ]
+},
+{
+  "name": "FF-SPR-refugees_welcome_3",
+  "kontakt": "micha-ff-spr@gmx.de",
+  "online": true,
+  "vpn": null,
+  "adresse": [
+    "2a03:2260:50:13:ea94:f6ff:fed4:2664"
+  ]
+},
+{
+  "name": "FF-EN-SPR-FW-LZ-Hasslinghausen",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": true,
+  "vpn": null,
+  "adresse": [
+    "2a03:2260:50:13:16cc:20ff:fe6e:f64a"
+  ]
+},
+{
+  "name": "FF-EN-SPR-HAUPTSTRASSE-6-FLUR-EG",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:16cc:20ff:fe3f:630"
+  ]
+},
+{
+  "name": "FF-EN-SPR-SM-SCHWELM-CPE210-01",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": false,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:16cc:20ff:fe47:401c"
+  ]
+},
+{
+  "name": "FF-EN-SPR-Fashion-Store-R1",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de 01636608150",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:16cc:20ff:fe6f:ae00"
+  ]
+},
+{
+  "name": "FF-EN-SPR-Pizzaria-Nostalgie",
+  "kontakt": "micha@freifunk-sprockhoevel.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:c66e:1fff:feb6:2990"
+  ]
+},
+{
+  "name": "sprockhoevel-2.ff-en.de",
+  "kontakt": null,
+  "online": true,
+  "vpn": null,
+  "adresse": null
+},
+{
+  "name": "FF-EN-SPR-Foto-Sieper-Hauptstr-27",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de 02324 9195747",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:ea94:f6ff:fef3:5e3"
+  ]
+},
+{
+  "name": "FF-EN-SPR-Vinothek-Dorfstrasse-13",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": false,
+  "vpn": true,
+  "adresse": [
+    "2a03:2260:50:13:16cc:20ff:fe6f:4614"
+  ]
+},
+{
+  "name": "FF-EN-SPR-Unterkunft-Mesh-2",
+  "kontakt": "micha@freifunk-sprockhoevel.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:32b5:c2ff:feda:11f0"
+  ]
+},
+{
+  "name": "FF-EN-SPR-Am-Alten-Knapp-14a",
+  "kontakt": "freifunk@juergen-henning.de 01636608150",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:16cc:20ff:fe3b:49e4"
+  ]
+},
+{
+  "name": "FF-EN-SPR-B90-DieGruenen",
+  "kontakt": "info@gruene-sprockhoevel.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:ea94:f6ff:fef2:f12e"
+  ]
+},
+{
+  "name": "FF-EN-SPR-Elektro-seyock-2",
+  "kontakt": "freifunk@juergen-henning.de 01636608150",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:16cc:20ff:fe85:900d"
+  ]
+},
+{
+  "name": "FF-EN-SPR-Fashion-Store",
+  "kontakt": "freifunk@juergen-henning.de 01636608150",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:16cc:20ff:fe85:95bc"
+  ]
+},
+{
+  "name": "FF-EN-SPR-Sanitaetshaus-Besser-leben-Hauptstr-62",
+  "kontakt": "freifunk@juergen-henning.de 01636608150",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:eade:27ff:fe65:a9cf"
+  ]
+},
+{
+  "name": "FF-EN-SPR-Der-Buchladen-Hauptstr-34",
+  "kontakt": "freifunk@juergen-henning.de  0163 6608150",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:16cc:20ff:fe85:9d69"
+  ]
+},
+{
+  "name": "FF-EN-SPR-Hotel-Restaraunt-Eggers-A73F0402CC41-1",
+  "kontakt": "freifunk@juergen-henning.de 0163  6608150",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:16cc:20ff:fe40:f37a"
+  ]
+},
+{
+  "name": "FF-SPR-Kaki09",
+  "kontakt": "freifunk@zueschen.eu",
+  "online": true,
+  "vpn": true,
+  "adresse": [
+    "2a03:2260:50:13:62e3:27ff:fecf:4590"
+  ]
+},
+{
+  "name": "FF-SPR-Kaki11",
+  "kontakt": "freifunk@zueschen.eu",
+  "online": true,
+  "vpn": true,
+  "adresse": [
+    "2a03:2260:50:13:f6f2:6dff:fe40:82f2"
+  ]
+},
+{
+  "name": "FF-EN-SPR-Bahnhof-Sprockhoevel-HofStock.de",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:c66e:1fff:feb6:2920"
+  ]
+},
+{
+  "name": "FF-EN-SPR-Mobile-World-24-R",
+  "kontakt": "juergen@freifunk-sprockhoevel.de +491636608150",
+  "online": false,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:ea94:f6ff:febb:adc0"
+  ]
+},
+{
+  "name": "FF-SPR-DG9DDF",
+  "kontakt": "mattes@air-raid.de",
+  "online": false,
+  "vpn": null,
+  "adresse": [
+    "2a03:2260:50:13:c6e9:84ff:feb0:df54"
+  ]
+},
+{
+  "name": "FF-EN-SPR-Navicula",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": true,
+  "vpn": null,
+  "adresse": [
+    "2a03:2260:50:13:ea94:f6ff:fef3:14e9"
+  ]
+},
+{
+  "name": "FF-EN-Hoelterstrasse",
+  "kontakt": null,
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:c66e:1fff:fec9:dd36"
+  ]
+},
+{
+  "name": "FF-EN-SPR-HW-TEST-05",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:fa1a:67ff:fea5:fd7a"
+  ]
+},
+{
+  "name": "FF-EN-SPR-Recko-Grill",
+  "kontakt": "micha-ff-spr@gmx.de",
+  "online": false,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:ea94:f6ff:febb:ad9e"
+  ]
+},
+{
+  "name": "FF-EN-SPR-Parfuemerie-Photo-Weiss-Mittelstr-20",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": false,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:16cc:20ff:fe5e:b7dc"
+  ]
+},
+{
+  "name": "FF-SPR-Kaki05",
+  "kontakt": "freifunk@zueschen.eu",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:62e3:27ff:fecf:2f78"
+  ]
+},
+{
+  "name": "FF-EN-SPR-SPORTHALLE-HASSLINGHAUSEN-CPE510-01",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": true,
+  "vpn": null,
+  "adresse": [
+    "2a03:2260:50:13:16cc:20ff:fe38:31e4"
+  ]
+},
+{
+  "name": "FF-EN-SPR-BAUHOF-UPLINK",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:32b5:c2ff:feb9:1810"
+  ]
+},
+{
+  "name": "FF-SPR-wanderhure",
+  "kontakt": null,
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:c66e:1fff:feb6:2966"
+  ]
+},
+{
+  "name": "FF-EN-SPR-MESH3-ZU-MESH11",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": false,
+  "vpn": null,
+  "adresse": [
+    "2a03:2260:50:13:16cc:20ff:fe40:e363"
+  ]
+},
+{
+  "name": "FF-EN-SPR-FW-LG-Schmiedestrasse-17",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": false,
+  "vpn": true,
+  "adresse": [
+    "2a03:2260:50:13:ea94:f6ff:fe29:8ec8"
+  ]
+},
+{
+  "name": "FF-EN-SPR-Turnhalle-Hiddinghausen",
+  "kontakt": null,
+  "online": false,
+  "vpn": null,
+  "adresse": [
+    "2a03:2260:50:13:16cc:20ff:fe6f:9e80"
+  ]
+},
+{
+  "name": "FF-EN-SPR-BUSBAHNHOF-NIEDERSPROCKHOEVEL-01",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:ea94:f6ff:fe05:f686"
+  ]
+},
+{
+  "name": "FF-EN-SPR-Turnhalle-Hasslinghausen-01",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": true,
+  "vpn": null,
+  "adresse": [
+    "2a03:2260:50:13:ea94:f6ff:feb6:774e"
+  ]
+},
+{
+  "name": "FF-EN-SPR-LALA-HOME-UPLINK",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:c24a:ff:fe7a:b5ec"
+  ]
+},
+{
+  "name": "FF-EN-SPR-Stuefke-CPE",
+  "kontakt": "micha-ff-spr@gmx.de",
+  "online": false,
+  "vpn": true,
+  "adresse": [
+    "2a03:2260:50:13:32b5:c2ff:febd:abc"
+  ]
+},
+{
+  "name": "FF-Winterberg-Test02",
+  "kontakt": null,
+  "online": false,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:32b5:c2ff:fed9:ee14"
+  ]
+},
+{
+  "name": "FF-EN-SPR-AJ-Schluessel-nur-in-Sprockhoevel",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de 01776815303",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:eade:27ff:fe5f:b49e"
+  ]
+},
+{
+  "name": "FF-EN-SPR-TSG-Verteiler",
+  "kontakt": "micha@freifunk-sprockhoevel.de",
+  "online": false,
+  "vpn": true,
+  "adresse": [
+    "2a03:2260:50:13:c66e:1fff:feb6:281e"
+  ]
+},
+{
+  "name": "FF-EN-SPR-Titan-X-Tattoo-Piercing-2",
+  "kontakt": "micha@freifunk-sprockhoevel.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:32b5:c2ff:fec7:4d2"
+  ]
+},
+{
+  "name": "FF-EN-SPR-RH-UG-NEUBA-01",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:c66e:1fff:fe31:645c"
+  ]
+},
+{
+  "name": "FF-SPR-Kaki06",
+  "kontakt": "freifunk@zueschen.eu",
+  "online": true,
+  "vpn": true,
+  "adresse": [
+    "2a03:2260:50:13:f6f2:6dff:fe40:7660"
+  ]
+},
+{
+  "name": "FF-EN-SPR-GLUECKAUFHALLE-FOYER",
+  "kontakt": "micha@freifunk-sprockhoevel.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:12fe:edff:fee5:95f2"
+  ]
+},
+{
+  "name": "FF-EN-SPR-Kirche-Sprockhoevel3",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:32b5:c2ff:feee:966a"
+  ]
+},
+{
+  "name": "FF-EN-SPR-Turnhalle-Hasslinghausen-02",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:ea94:f6ff:fecd:589e"
+  ]
+},
+{
+  "name": "FF-SPR-Schultenbuschstrasse",
+  "kontakt": "micha-ff-spr@gmx.de",
+  "online": false,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:16cc:20ff:fe6e:f49e"
+  ]
+},
+{
+  "name": "FF-EN-SPR-KiTa-Gedulderweg",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:ea94:f6ff:fe4b:c20c"
+  ]
+},
+{
+  "name": "FF-EN-SPR-Hotel-und-Restaraunt-Eggers-Auf-gut-Deutsch-R",
+  "kontakt": "juergen@freifunk-sprockhoevel.de 01636608150",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:ea94:f6ff:fef2:f47c"
+  ]
+},
+{
+  "name": "FF-EN-SPR-Zwergenhaeuschen-Hauptstr-18",
+  "kontakt": "freifunk@juergen-henning.de 01636608150",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:ea94:f6ff:fef3:1cb4"
+  ]
+},
+{
+  "name": "FF-EN-SPR-RH-1-OG-CPE210-SUED",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:16cc:20ff:fe47:5122"
+  ]
+},
+{
+  "name": "FF-EN-SPR-Sport-Meister-Hauptstr-76",
+  "kontakt": "freifunk@juergen-henning.de 0163 6608150",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:ea94:f6ff:fef3:1450"
+  ]
+},
+{
+  "name": "FF-SPR-TESTHURE1-Uplink",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:32b5:c2ff:feed:fd7a"
+  ]
+},
+{
+  "name": "FF-SPR-Kaki01",
+  "kontakt": "freifunk@zueschen.eu",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:16cc:20ff:feb4:f17a"
+  ]
+},
+{
+  "name": "FF-EN-SPR-RH-Sitzungssaal-Bodentank-01",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:c66e:1fff:fe8d:aa2"
+  ]
+},
+{
+  "name": "FF-EN-SPR-Stuefke-1C",
+  "kontakt": "helmut-ff-spr@web.de",
+  "online": false,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:a2f3:c1ff:fec4:6da2"
+  ]
+},
+{
+  "name": "FF-EN-SPR-Langenbruchstrasse-42",
+  "kontakt": "pj16de@yahoo.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:62e3:27ff:fe60:16aa"
+  ]
+},
+{
+  "name": "FF-EN-SPR-SERVICE-01",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:32b5:c2ff:fec6:7d7e"
+  ]
+},
+{
+  "name": "FF-EN-SPR-HAUPTSTRASSE-6-MASTER",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:6666:b3ff:fec7:1988"
+  ]
+},
+{
+  "name": "FF-EN-SPR-RH-BuergerBuero-HASSLINGHAUSEN-01",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:c66e:1fff:fe3a:fc9"
+  ]
+},
+{
+  "name": "FF-SPR-Im_Osterkamp",
+  "kontakt": "micha-ff-spr@gmx.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:16cc:20ff:fe6e:f4f6"
+  ]
+},
+{
+  "name": "FF-EN-SPR-FW-LZ-Gennebreck-Barmerstr",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:ea94:f6ff:fe29:a066"
+  ]
+},
+{
+  "name": "FF-EN-SPR-Unterkunft-DG",
+  "kontakt": "micha@freifunk-sprockhoevel.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:32b5:c2ff:fec6:83ce"
+  ]
+},
+{
+  "name": "FF-EN-SPR-sukhothai-fine_asia_food_and_cocktails",
+  "kontakt": "micha-ff-spr@gmx.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:16cc:20ff:fe85:8e3f"
+  ]
+},
+{
+  "name": "FF-EN-SPR-HAUPTSTRASSE-6-VHS-RAUM-1",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:32b5:c2ff:fec2:c0fa"
+  ]
+},
+{
+  "name": "FF-SPR-Unterdorf-M2-Uplink",
+  "kontakt": "micha-ff-spr@gmx.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:6a72:51ff:fe24:fe09"
+  ]
+},
+{
+  "name": "FF-EN-SPR-WJH-R1",
+  "kontakt": "juergen@freifunk-en.de 01636608150",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:ea94:f6ff:febb:ab10"
+  ]
+},
+{
+  "name": "FF-EN-SPR-Freibad-RE860",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:eade:27ff:fec9:e73b"
+  ]
+},
+{
+  "name": "FF-EN-SPR-PTT-Sprockhoevel-Eickerstr.18",
+  "kontakt": "freifunk@juergen-henning.de 0163 6608150",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:ea94:f6ff:fef3:1585"
+  ]
+},
+{
+  "name": "FF-SPR-Kaki10",
+  "kontakt": "freifunk@zueschen.eu",
+  "online": true,
+  "vpn": true,
+  "adresse": [
+    "2a03:2260:50:13:f6f2:6dff:fe40:5574"
+  ]
+},
+{
+  "name": "FF-EN-SPR-FW-LZ-Niedersprockhoevel-Uplink",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:c66e:1fff:fe87:9ae0"
+  ]
+},
+{
+  "name": "FF-EN-SPR-Kirche-Sprockhoevel5-Kueche-EG",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": false,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:62e3:27ff:febd:d36c"
+  ]
+},
+{
+  "name": "FF-SPR-land-unter",
+  "kontakt": "michael.predki@yahoo.de",
+  "online": false,
+  "vpn": true,
+  "adresse": [
+    "2a03:2260:50:13:62e3:27ff:fecf:278"
+  ]
+},
+{
+  "name": "FF-EN-SPR-Jugendzentrum-Niedersprockhoevel",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:ea94:f6ff:fed5:8d04"
+  ]
+},
+{
+  "name": "FF-EN-SPR-LALA-KUECHE-01",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:16cc:20ff:fe41:85f"
+  ]
+},
+{
+  "name": "FF-SPR-Oststrasse",
+  "kontakt": null,
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:62e3:27ff:fe5f:ca2a"
+  ]
+},
+{
+  "name": "FF-EN-SPR-RH-UPLINK-TURNHALLE-510-01",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": true,
+  "vpn": null,
+  "adresse": [
+    "2a03:2260:50:13:c66e:1fff:fe5e:19fc"
+  ]
+},
+{
+  "name": "FF-EN-SPR-BAUHOF-MITARBEITER-RE850",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:eade:27ff:fedf:7507"
+  ]
+},
+{
+  "name": "FF-EN-SPR-Freibad-4900-UPLINK",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:c24a:ff:fea4:23e7"
+  ]
+},
+{
+  "name": "FF-EN-SPR-Franks-Fahradladen-Hauptstr-35",
+  "kontakt": "freifunk@juergen-henning.de 0163 6608150",
+  "online": false,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:eade:27ff:fe65:d1d7"
+  ]
+},
+{
+  "name": "FF-EN-SPR-Praxis-fuer-Sprachtherapie-Mittelstr-11A",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": false,
+  "vpn": true,
+  "adresse": [
+    "2a03:2260:50:13:c66e:1fff:fe40:700c"
+  ]
+},
+{
+  "name": "FF-EN-SPR-RH-MESH-MASTER-UPLINK2",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:c24a:ff:fedd:6da8"
+  ]
+},
+{
+  "name": "FF-EN-SPR-BUSBAHNHOF-HASSLINGHAUSEN-KASTEN-02",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:16cc:20ff:fe3f:6e21"
+  ]
+},
+{
+  "name": "FF-EN-SPR-BUSBAHNHOF-Niedersprockhoevel-02",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:32b5:c2ff:fec7:51e"
+  ]
+},
+{
+  "name": "FF-EN-SPR-Ashop-Sprockhoevel-Hauptstr-56",
+  "kontakt": "freifunk@juergen-henning.de 0163 6608150",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:eade:27ff:fe65:d2a9"
+  ]
+},
+{
+  "name": "FF-SPR-GLUECKHAUFHALLE-LICHTBAND-01",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:32b5:c2ff:fec7:514"
+  ]
+},
+{
+  "name": "FF-EN-SPR-Landgasthof-ImHolland.de",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": false,
+  "vpn": true,
+  "adresse": [
+    "2a03:2260:50:13:c66e:1fff:feb6:8eb0"
+  ]
+},
+{
+  "name": "FF-EN-SPR-www.fewofalk.de",
+  "kontakt": "micha@freifunk-sprockhoevel.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:c66e:1fff:fe8d:9c8"
+  ]
+},
+{
+  "name": "FF-EN-SPR-FW-LZ-Hasslinghausen-MASTER-MESH",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": true,
+  "vpn": null,
+  "adresse": [
+    "2a03:2260:50:13:fa1a:67ff:fe5a:7e28"
+  ]
+},
+{
+  "name": "FF-EN-SPR-Titan-X-Tattoo-Piercing-TEST",
+  "kontakt": "micha-ff-spr@gmx.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:ea94:f6ff:febb:c2d8"
+  ]
+},
+{
+  "name": "FF-EN-SPR-TURNHALLE-WEST-HM-05",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:32b5:c2ff:fe81:1f08"
+  ]
+},
+{
+  "name": "FF-SPR-Kaki08",
+  "kontakt": "freifunk@zueschen.eu",
+  "online": true,
+  "vpn": true,
+  "adresse": [
+    "2a03:2260:50:13:f6f2:6dff:fe40:5584"
+  ]
+},
+{
+  "name": "FF-EN-SPR-Gaststaette-Zum-Amtshaus",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:c24a:ff:fedd:5ae8"
+  ]
+},
+{
+  "name": "FF-EN-SPR-Provinzial-Geiger-Hauptstr-64",
+  "kontakt": "freifunk@juergen-henning.de 0163 6608150",
+  "online": false,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:ea94:f6ff:fed4:2bfa"
+  ]
+},
+{
+  "name": "FF-EN-SPR-TSG-Sportlertreff-Im-Baumhof-15",
+  "kontakt": "freifunk@juergen-henning.de 0163 6608150",
+  "online": false,
+  "vpn": null,
+  "adresse": [
+    "2a03:2260:50:13:eade:27ff:fe65:c247"
+  ]
+},
+{
+  "name": "FF-SPR-refugees_welcome_4",
+  "kontakt": "micha-ff-spr@gmx.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:6eb0:ceff:fef5:3fe"
+  ]
+},
+{
+  "name": "FF-EN-SPR-FW-LG-Hiddinghausen-Jahnstrasse",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:ea94:f6ff:fed5:9052"
+  ]
+},
+{
+  "name": "FF-EN-SPR-Unterdorf-Outdoor",
+  "kontakt": "micha-ff-spr@gmx.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:16cc:20ff:fe85:911e"
+  ]
+},
+{
+  "name": "FF-EN-SPR-Plessbach-01",
+  "kontakt": "feedback@freifunk-witten.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:eade:27ff:fe2f:7a48"
+  ]
+},
+{
+  "name": "FF-EN-SPR-MESH11-ZU-MESH3",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": false,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:32b5:c2ff:fe0d:4390"
+  ]
+},
+{
+  "name": "FF-EN-SPR-DRK-HALLE",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:c66e:1fff:fe31:6dde"
+  ]
+},
+{
+  "name": "FF-EN-SPR-SM-SCHWELM-UPLINK-01",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:c66e:1fff:fe31:61aa"
+  ]
+},
+{
+  "name": "FF-EN-SPR-Hotel-und-Restaraunt-Eggers-Gaestehaus",
+  "kontakt": "freifunk@juergen-henning.de 0163 6608150",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:c66e:1fff:fe88:eaa1"
+  ]
+},
+{
+  "name": "FF-EN-SPR-Freibad-CPE-210-RE-LILA",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:16cc:20ff:fe6e:1710"
+  ]
+},
+{
+  "name": "sprockhoevel-3.ff-en.de",
+  "kontakt": null,
+  "online": true,
+  "vpn": null,
+  "adresse": null
+},
+{
+  "name": "FF-EN-SPR-Cafe-Z-Hasslinghausen-Mittelstr-9",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": false,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:ea94:f6ff:fed4:2722"
+  ]
+},
+{
+  "name": "FF-SPR-Kaki04",
+  "kontakt": "freifunk@zueschen.eu",
+  "online": true,
+  "vpn": true,
+  "adresse": [
+    "2a03:2260:50:13:62e3:27ff:feb7:9a04"
+  ]
+},
+{
+  "name": "FF-EN-SPR-DEMO-667",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:62e3:27ff:fe67:bccd"
+  ]
+},
+{
+  "name": "FF-EN-SPR-China-Restaurant-LOTUS",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": false,
+  "vpn": null,
+  "adresse": [
+    "2a03:2260:50:13:32b5:c2ff:fec2:bf18"
+  ]
+},
+{
+  "name": "FF-EN-SPR-Freiwilligenboerse-Niedersprockhoevel-01",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:c66e:1fff:fe8c:b78c"
+  ]
+},
+{
+  "name": "FF-EN-SPR-PraxisReichling.de",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:eade:27ff:fe58:e57e"
+  ]
+},
+{
+  "name": "FF-EN-SPR-Testbox-841n",
+  "kontakt": "micha@freifunk-sprockhoevel.de",
+  "online": false,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:16cc:20ff:fe6f:9d9e"
+  ]
+},
+{
+  "name": "FF-SPR-Kaki12",
+  "kontakt": "freifunk@zueschen.eu",
+  "online": true,
+  "vpn": true,
+  "adresse": [
+    "2a03:2260:50:13:62e3:27ff:fecf:45da"
+  ]
+},
+{
+  "name": "FF-EN-SPR-Boergersbruch-Forum-01",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": false,
+  "vpn": true,
+  "adresse": [
+    "2a03:2260:50:13:c24a:ff:fe38:e914"
+  ]
+},
+{
+  "name": "FF-EN-SPR-Sanitaetshaus-Besser-leben-Hauptstr-62-R",
+  "kontakt": "freifunk@juergen-henning.de 01636608150",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:eade:27ff:fe65:d3e1"
+  ]
+},
+{
+  "name": "FF-EN-SPR-LoehenerStr",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:32b5:c2ff:feb9:7de"
+  ]
+},
+{
+  "name": "FF-EN-SPR-FEWO-LAMAISON",
+  "kontakt": "freifunk@juergen-henning.de +491636608150",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:ea94:f6ff:febb:a858"
+  ]
+},
+{
+  "name": "FF-EN-SPR-Buergertreff-Hasslinghausen-Dorfstr-13",
+  "kontakt": "freifunk@langewiesche.de",
+  "online": false,
+  "vpn": true,
+  "adresse": [
+    "2a03:2260:50:13:ea94:f6ff:fe29:8e3c"
+  ]
+},
+{
+  "name": "FF-EN-SPR-Hiddinghausen-Langenbruchstrasse-42",
+  "kontakt": "pj16de@yahoo.de",
+  "online": false,
+  "vpn": true,
+  "adresse": [
+    "2a03:2260:50:13:16cc:20ff:fe5e:c7de"
+  ]
+},
+{
+  "name": "FF-EN-SPR-CafeKrokant-Hauptstr-28",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:ea94:f6ff:fe29:8eac"
+  ]
+},
+{
+  "name": "FF-EN-SPR-Heiers_Muehle",
+  "kontakt": "mattes@air-raid.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:ea94:f6ff:fef3:1d47"
+  ]
+},
+{
+  "name": "FF-EN-SPR-TURNHALLE-NORD-01",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:eade:27ff:feca:23f0"
+  ]
+},
+{
+  "name": "FF-EN-SPR-Steakhouse-Rose-Haupstr-79",
+  "kontakt": "freifunk@juergen-henning.de 01636608150",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:16cc:20ff:fe85:9082"
+  ]
+},
+{
+  "name": "FF-SPR-Kaki15",
+  "kontakt": "freifunk@zueschen.eu",
+  "online": true,
+  "vpn": true,
+  "adresse": [
+    "2a03:2260:50:13:f6f2:6dff:fe40:4f8a"
+  ]
+},
+{
+  "name": "sprockhoevel-3.ff-en.de",
+  "kontakt": null,
+  "online": false,
+  "vpn": null,
+  "adresse": null
+},
+{
+  "name": "FF-EN-SPR-Buergerbuero-Niedersprockhoevel-02",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:ea94:f6ff:fe29:8ea8"
+  ]
+},
+{
+  "name": "FF-SPR-CurryStyle-Imbiss-vor-REWE-Hasslinghausen",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": false,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:32b5:c2ff:fece:e3ea"
+  ]
+},
+{
+  "name": "FF-EN-SPR-RH-PLANKELLER-01",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:32b5:c2ff:feda:fae"
+  ]
+},
+{
+  "name": "FF-EN-SPR-WJH",
+  "kontakt": "freifunk@juergen-henning.de +491636608150",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:c66e:1fff:fe08:a69f"
+  ]
+},
+{
+  "name": "FF-EN-SPR-Amtshaus-Vorne",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:62e3:27ff:feb5:835"
+  ]
+},
+{
+  "name": "FF-EN-SPR-Ihr-Platz-Kueppers-Hasslinghausen-Mittelstr-1",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:eade:27ff:fe65:cf61"
+  ]
+},
+{
+  "name": "FF-SPR-Mattes-2",
+  "kontakt": null,
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:c66e:1fff:fe61:943e"
+  ]
+},
+{
+  "name": "FF-SPR-Kaki02",
+  "kontakt": "freifunk@zueschen.eu",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:16cc:20ff:feb4:ebef"
+  ]
+},
+{
+  "name": "FF-EN-SPR-Unterkunft-Mesh-3",
+  "kontakt": "micha@freifunk-sprockhoevel.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:32b5:c2ff:fec6:81d0"
+  ]
+},
+{
+  "name": "FF-EN-SPR-Kirche-Sprockhoevel2",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:32b5:c2ff:fe22:5d06"
+  ]
+},
+{
+  "name": "FF-SPR-Kaki14",
+  "kontakt": "freifunk@zueschen.eu",
+  "online": true,
+  "vpn": true,
+  "adresse": [
+    "2a03:2260:50:13:f6f2:6dff:fe40:8416"
+  ]
+},
+{
+  "name": "FF-EN-SPR-Hotel-und-Restaraunt-Eggers-Auf-gut-Deutsch",
+  "kontakt": "freifunk@juergen-henning.de 0163 6608150",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:c66e:1fff:fe08:9910"
+  ]
+},
+{
+  "name": "FF-EN-SPR-Ihr-Absatzjaeger-Schluesseldienst-Hauptstrasse-23",
+  "kontakt": "uwe-bodschwinna@web.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:ea94:f6ff:fef3:63d"
+  ]
+},
+{
+  "name": "FF-EN-SPR-Rosen-Apotheke",
+  "kontakt": "freifunk@juegen-henning.de 01636608150",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:16cc:20ff:fe85:90a6"
+  ]
+},
+{
+  "name": "FF-SPR-Kaki07",
+  "kontakt": "freifunk@zueschen.eu",
+  "online": true,
+  "vpn": true,
+  "adresse": [
+    "2a03:2260:50:13:f6f2:6dff:fe40:556e"
+  ]
+},
+{
+  "name": "FF-EN-SPR-sunshine4kids",
+  "kontakt": "micha-ff-spr@gmx.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:c66e:1fff:fec7:5d6"
+  ]
+},
+{
+  "name": "FF-SPR-refugees_welcome_1",
+  "kontakt": "micha-ff-spr@gmx.de",
+  "online": true,
+  "vpn": true,
+  "adresse": [
+    "2a03:2260:50:13:6666:b3ff:fe4f:eb0a"
+  ]
+},
+{
+  "name": "FF-EN-SPR-RH-SPIELWIESE-CPE-210",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:c6e9:84ff:feb0:a234"
+  ]
+},
+{
+  "name": "FF-EN-SPR-LALA-DACHBODEN-OST-01",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:c66e:1fff:fe31:6eee"
+  ]
+},
+{
+  "name": "FF-EN-SPR-Gerds-Zwiebel",
+  "kontakt": "micha-ff-spr@gmx.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:ea94:f6ff:fed4:3d8a"
+  ]
+},
+{
+  "name": "FF-EN-SPR-STUEFKE",
+  "kontakt": "helmut-ff-spr@web.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:ea94:f6ff:febb:a716"
+  ]
+},
+{
+  "name": "FF-EN-SPR-TURNHALLE-WEST-HM-06",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:32b5:c2ff:fecb:34c2"
+  ]
+},
+{
+  "name": "FF-SPR-RH-DACH-3-OG-MESH-MASTER",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": false,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:32b5:c2ff:fec6:986e"
+  ]
+},
+{
+  "name": "FF-SPR-Stuefke-Uplink",
+  "kontakt": "micha@freifunk-sprockhoevel.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:c6e9:84ff:fe4b:5f9"
+  ]
+},
+{
+  "name": "FF-SPR-Stuefke-Verteiler",
+  "kontakt": "micha@freifunk-sprockhoevel.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:c24a:ff:febe:7b86"
+  ]
+},
+{
+  "name": "FF-EN-SPR-Haus-Brenne-Partytreff-No-1-Mittelstr-1",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:ea94:f6ff:fe68:4168"
+  ]
+},
+{
+  "name": "FF-EN-SPR-RH-ZENTRALE-KELLER-01",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": true,
+  "vpn": null,
+  "adresse": [
+    "2a03:2260:50:13:c66e:1fff:fe87:605e"
+  ]
+},
+{
+  "name": "FF-EN-SPR-Unterkunft-CPE",
+  "kontakt": "micha@freifunk-sprockhoevel.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:c6e9:84ff:feb0:d008"
+  ]
+},
+{
+  "name": "FF-EN-SPR-SPORTHALLE-HASSLINGHAUSEN-RE860-01",
+  "kontakt": "freifunk@freifunk-sprockhoevel.de",
+  "online": true,
+  "vpn": false,
+  "adresse": [
+    "2a03:2260:50:13:16cc:20ff:fe0e:de35"
+]}]
