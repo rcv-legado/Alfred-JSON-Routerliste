@@ -1,5 +1,7 @@
 # Alfred-JSON - Freifunk Routerliste
 
+Requires - jQuery 1.7.2+ ( apt-get install jq )
+
 1. - edit the cron/get_data.sh file to your needs
 
 2. - just run the script in cronjob every 5minutes
