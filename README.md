@@ -8,7 +8,7 @@ Requires - jQuery 1.7.2+ ( apt-get install jq )
 
 ....
 
-
+![Screenshot](http://map.ff-en.de/alfred-json.png)
 
 # Columns jQuery Plugin
 
